@@ -1,7 +1,7 @@
 # UiPath-Experiment-2
-# Date:
-# Register No.:212224040302
-# Name: S Sesha Raghavan
+# Date:05.05.2025
+# Register No.:212224220052
+# Name: Lalentika Twisha M
 # AIM:
 Get input of name from user and if name is "RAM", Display message as "Welcome Mr. Ramachandran" otherwise "Welcome " followed by Given name.  When using Switch case, use different message for every input it gets.  
 # Requirements:
@@ -37,4 +37,12 @@ Case "VIJAY"
 
 Default Case
 → Message Box: "Welcome " + userName
+
+
 # Workflow Process Image:
+
+![image](https://github.com/user-attachments/assets/7cd1e8a0-2403-40c0-96d4-f3ccbf615e66)
+
+
+![image](https://github.com/user-attachments/assets/e52bf699-c99f-435d-a7ee-2efffe0caf82)
+
